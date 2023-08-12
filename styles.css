@@ -9,6 +9,12 @@
   display: inline-block;
 
 }
+.mayDice {
+  margin-right:100px;
+}
+.willDice {
+  margin-left:100px;
+}
 
 body {
   background-color: #393E46;
