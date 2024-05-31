@@ -37,6 +37,16 @@ p {
 img {
   width: 80%;
 }
+.btn {
+  font-size:2rem;
+  margin:30px;
+  padding:5px 20px;
+  color:#4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  border-radius:10%;
+  border:none;
+}
+
 
 footer {
   margin-top: 5%;
